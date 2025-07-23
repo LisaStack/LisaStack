@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="./gg.gif"  />
 
 ###
 
@@ -26,6 +26,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LisaStack/LisaStack/output/snake.svg" alt="Snake animation" />
+<img src="./snake.svg" alt="Snake animation" />
 
 ###
