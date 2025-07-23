@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -24,8 +20,14 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<img src="./snake.svg" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="pacman.svg">
+  <img alt="pacman contribution graph" src="pacman.svg">
+</picture>
 
 ###
