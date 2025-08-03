@@ -36,6 +36,7 @@
 
 ###
 
+
 <h3 align="left">🔧 Tools I Use</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
@@ -51,20 +52,4 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="pacman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="pacman.svg">
-  <img alt="Pacman contribution graph" src="pacman.svg">
-</picture>
 
-###
-
-<h3 align="left">🌐 Connect with Me</h3>
-<div align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="25" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="25" />
-  </a>
-</div>
